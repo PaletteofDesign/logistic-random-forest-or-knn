@@ -1,1 +1,1 @@
-# logistic-random-forest-or-knn
+# Logistic-Random-Forest-or-KNN
